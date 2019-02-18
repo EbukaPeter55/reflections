@@ -10,6 +10,8 @@ to commit them or not,
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+After making a logical change, add to the staging area and commit immediately,
+once further changes are made, you can repeat same process above.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
