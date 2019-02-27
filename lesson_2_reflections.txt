@@ -28,3 +28,6 @@ we represent it in a diagram to know the line of access to each commit in a bran
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+GIt's automatic merging has its advantage of making it easy and fast to combine or
+ merging two branches together when compared with doing it manually, but its cons 
+ comes up when you have a merge conflicts. 
